@@ -525,7 +525,7 @@ export const mockData = {
           "id": "site-1765936923276",
           "name": "byrutgame",
           "url": "https://byrutgame.org/",
-          "description": "俄罗斯byrutgame(纯bt)",
+          "description": "俄罗斯byrutgame(纯bt种子)",
           "icon": "https://www.faviconextractor.com/favicon/byrutgame.org"
         },
         {
@@ -546,8 +546,22 @@ export const mockData = {
           "id": "site-1765938600454",
           "name": "romspedia",
           "url": "https://www.romspedia.com/",
-          "description": "免费模拟器roms下载（http下载），switch基本没有",
+          "description": "模拟器roms下载（http下载），switch基本没有",
           "icon": "https://www.faviconextractor.com/favicon/www.romspedia.com"
+        },
+        {
+          "id": "site-1765939069270",
+          "name": "romsns",
+          "url": "https://romsns.com/",
+          "description": "switch游戏（可直接http下载）",
+          "icon": "https://www.faviconextractor.com/favicon/romsns.com"
+        },
+        {
+          "id": "site-1765939713221",
+          "name": "romsim",
+          "url": "https://romsim.com/",
+          "description": "switchrom大全（http直接下载）",
+          "icon": "https://www.faviconextractor.com/favicon/romsim.com"
         }
       ]
     }
