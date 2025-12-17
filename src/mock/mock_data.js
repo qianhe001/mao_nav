@@ -513,7 +513,29 @@ export const mockData = {
       "icon": "🎮",
       "name": "电子游戏",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1765936831893",
+          "name": "52jidi",
+          "url": "https://52jidi.com/",
+          "description": "我爱单机游戏(免费网盘+磁力)",
+          "icon": "https://www.faviconextractor.com/favicon/52jidi.com"
+        },
+        {
+          "id": "site-1765936923276",
+          "name": "byrutgame",
+          "url": "https://byrutgame.org/",
+          "description": "俄罗斯byrutgame(纯bt)",
+          "icon": "https://www.faviconextractor.com/favicon/byrutgame.org"
+        },
+        {
+          "id": "site-1765937019574",
+          "name": "rutracker",
+          "url": "https://rutracker.org/forum/index.php",
+          "description": "俄罗斯游戏论坛(ps|switch|pc)种子站",
+          "icon": "https://www.faviconextractor.com/favicon/rutracker.org"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
