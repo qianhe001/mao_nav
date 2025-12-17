@@ -690,6 +690,20 @@ export const mockData = {
           "url": "https://airav.io/cn/list?sort=4",
           "description": "可在线播放",
           "icon": "https://www.faviconextractor.com/favicon/airav.io"
+        },
+        {
+          "id": "site-1765981190173",
+          "name": "avhd101",
+          "url": "https://p1.hipass.cc/r/p1?utm_source=lan&utm_campaign=dl&utm_medium=dl",
+          "description": "在线看当天/日/月热作",
+          "icon": "https://www.faviconextractor.com/favicon/p1.hipass.cc"
+        },
+        {
+          "id": "site-1765981404406",
+          "name": "avmoo",
+          "url": "https://tellme.pw/avmoo",
+          "description": "avmoo地址",
+          "icon": "https://www.faviconextractor.com/favicon/tellme.pw"
         }
       ]
     }
