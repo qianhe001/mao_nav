@@ -656,6 +656,42 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.eryi.org"
         }
       ]
+    },
+    {
+      "id": "category-1765980900507",
+      "icon": "🔍",
+      "name": "番号搜索",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1765980916450",
+          "name": "javdb",
+          "url": "https://javdb.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/javdb.com"
+        },
+        {
+          "id": "site-1765980935810",
+          "name": "javbus",
+          "url": "https://www.javbus.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.javbus.com"
+        },
+        {
+          "id": "site-1765980960074",
+          "name": "javlibrary",
+          "url": "https://www.javlibrary.com/en/vl_genre.php?g=aaua",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.javlibrary.com"
+        },
+        {
+          "id": "site-1765981069162",
+          "name": "av番评",
+          "url": "https://airav.io/cn/list?sort=4",
+          "description": "可在线播放",
+          "icon": "https://www.faviconextractor.com/favicon/airav.io"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
