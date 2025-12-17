@@ -599,6 +599,13 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1765972590033",
+      "icon": "📁",
+      "name": "磁力搜索",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "猫猫导航🐱"
