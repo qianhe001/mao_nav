@@ -534,6 +534,20 @@ export const mockData = {
           "url": "https://rutracker.org/forum/index.php",
           "description": "俄罗斯游戏论坛(ps|switch|pc)种子站",
           "icon": "https://www.faviconextractor.com/favicon/rutracker.org"
+        },
+        {
+          "id": "site-1765937175670",
+          "name": "switch520",
+          "url": "https://www.gamer520.com/",
+          "description": "switch520(百度网盘站)",
+          "icon": "https://www.faviconextractor.com/favicon/www.gamer520.com"
+        },
+        {
+          "id": "site-1765938600454",
+          "name": "romspedia",
+          "url": "https://www.romspedia.com/",
+          "description": "免费模拟器roms下载（http下载），switch基本没有",
+          "icon": "https://www.faviconextractor.com/favicon/www.romspedia.com"
         }
       ]
     }
