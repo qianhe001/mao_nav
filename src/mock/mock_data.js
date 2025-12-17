@@ -425,7 +425,7 @@ export const mockData = {
           "name": "时间戳转换",
           "url": "https://tool.lu/timestamp/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/tool.lu"
         },
         {
           "id": "site-1765935518926",
@@ -509,6 +509,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "饺子导航🐱",
-  "_fileSha": "57c06ce9fd4cf1496d421911c1b199f9a26212de"
+  "title": "猫猫导航🐱"
 }
