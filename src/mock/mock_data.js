@@ -626,6 +626,27 @@ export const mockData = {
           "url": "https://tokyo-tosho.net/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765973263526",
+          "name": "torrentdownloads",
+          "url": "https://www.torrentdownloads.pro/",
+          "description": "欧美磁力(广告弹窗多)",
+          "icon": "https://www.faviconextractor.com/favicon/www.torrentdownloads.pro"
+        },
+        {
+          "id": "site-1765973727713",
+          "name": "u3c3",
+          "url": "https://github.com/u3c3/bt-btt",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1765973769865",
+          "name": "btsow",
+          "url": "https://tellme.pw/btsow",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/tellme.pw"
         }
       ]
     }
