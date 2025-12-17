@@ -654,6 +654,13 @@ export const mockData = {
           "url": "http://www.eryi.org/searchsites/cili-search.html",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.eryi.org"
+        },
+        {
+          "id": "site-1765982152533",
+          "name": "无极磁力",
+          "url": "https://cili.st/",
+          "description": "清新可搜索欧美",
+          "icon": "https://www.faviconextractor.com/favicon/cili.st"
         }
       ]
     },
