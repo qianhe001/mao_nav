@@ -704,6 +704,13 @@ export const mockData = {
           "url": "https://tellme.pw/avmoo",
           "description": "avmoo地址",
           "icon": "https://www.faviconextractor.com/favicon/tellme.pw"
+        },
+        {
+          "id": "site-1765981773374",
+          "name": "javmost",
+          "url": "https://www5.javmost.com/",
+          "description": "可在线看",
+          "icon": "https://www.faviconextractor.com/favicon/www5.javmost.com"
         }
       ]
     }
