@@ -647,6 +647,13 @@ export const mockData = {
           "url": "https://tellme.pw/btsow",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/tellme.pw"
+        },
+        {
+          "id": "site-1765973955060",
+          "name": "磁力联盟",
+          "url": "http://www.eryi.org/searchsites/cili-search.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.eryi.org"
         }
       ]
     }
