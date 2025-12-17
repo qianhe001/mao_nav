@@ -590,6 +590,13 @@ export const mockData = {
           "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/",
           "description": "reddit免费游戏清单",
           "icon": "https://www.faviconextractor.com/favicon/www.reddit.com"
+        },
+        {
+          "id": "site-1765942905332",
+          "name": "品技(原91)",
+          "url": "https://www.tekqart.com/",
+          "description": "品技(原91)",
+          "icon": ""
         }
       ]
     }
