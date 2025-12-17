@@ -605,7 +605,29 @@ export const mockData = {
       "icon": "📁",
       "name": "磁力搜索",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1765972658121",
+          "name": "吴签磁力",
+          "url": "https://wuqiangi.top/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/wuqiangi.top"
+        },
+        {
+          "id": "site-1765972727360",
+          "name": "skrbt",
+          "url": "https://skrbtgb.top",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/skrbtgb.top"
+        },
+        {
+          "id": "site-1765973019987",
+          "name": "tokyo-tosho",
+          "url": "https://tokyo-tosho.net/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
