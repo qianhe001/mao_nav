@@ -576,6 +576,20 @@ export const mockData = {
           "url": "https://fitgirl-repacks.site/",
           "description": "各种类型游戏宝库(磁力|网盘)",
           "icon": "https://www.faviconextractor.com/favicon/fitgirl-repacks.site"
+        },
+        {
+          "id": "site-1765941091589",
+          "name": "ankergames",
+          "url": "https://ankergames.net/",
+          "description": "pc游戏(系列) http下载",
+          "icon": "https://www.faviconextractor.com/favicon/ankergames.net"
+        },
+        {
+          "id": "site-1765941379765",
+          "name": "免费游戏导航",
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/",
+          "description": "reddit免费游戏清单",
+          "icon": "https://www.faviconextractor.com/favicon/www.reddit.com"
         }
       ]
     }
