@@ -507,6 +507,13 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1765936765422",
+      "icon": "🎮",
+      "name": "电子游戏",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "猫猫导航🐱"
