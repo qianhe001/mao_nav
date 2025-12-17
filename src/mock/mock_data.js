@@ -546,7 +546,7 @@ export const mockData = {
           "id": "site-1765938600454",
           "name": "romspedia",
           "url": "https://www.romspedia.com/",
-          "description": "模拟器roms下载（http下载），switch基本没有",
+          "description": "模拟器roms下载（http下载）",
           "icon": "https://www.faviconextractor.com/favicon/www.romspedia.com"
         },
         {
@@ -562,6 +562,20 @@ export const mockData = {
           "url": "https://romsim.com/",
           "description": "switchrom大全（http直接下载）",
           "icon": "https://www.faviconextractor.com/favicon/romsim.com"
+        },
+        {
+          "id": "site-1765940506685",
+          "name": "steamrip",
+          "url": "https://steamrip.com/",
+          "description": "pc游戏站点(http下载)",
+          "icon": "https://www.faviconextractor.com/favicon/steamrip.com"
+        },
+        {
+          "id": "site-1765940880965",
+          "name": "fitgirl-repacks",
+          "url": "https://fitgirl-repacks.site/",
+          "description": "各种类型游戏宝库(磁力|网盘)",
+          "icon": "https://www.faviconextractor.com/favicon/fitgirl-repacks.site"
         }
       ]
     }
