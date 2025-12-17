@@ -376,6 +376,13 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1765936002398",
+          "name": "zlibrary",
+          "url": "https://github.com/z-libraryopp/z-libraryopp.github.io?tab=readme-ov-file",
+          "description": "zlibrary电子图书馆",
+          "icon": ""
         }
       ]
     },
@@ -502,5 +509,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "饺子导航🐱"
+  "title": "猫猫导航🐱"
 }
