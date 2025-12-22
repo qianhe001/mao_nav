@@ -720,6 +720,21 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www5.javmost.com"
         }
       ]
+    },
+    {
+      "id": "category-1766413120111",
+      "icon": "💼",
+      "name": "个人存储",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1766413142887",
+          "name": "个人飞牛nas",
+          "url": "http://100.81.124.42:8000/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
