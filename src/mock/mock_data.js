@@ -597,6 +597,13 @@ export const mockData = {
           "url": "https://www.tekqart.com/",
           "description": "品技(原91)",
           "icon": ""
+        },
+        {
+          "id": "site-1771857571674",
+          "name": "悟界ShareHub",
+          "url": "https://www.wjshub.cn/",
+          "description": "免费游戏分享",
+          "icon": "https://www.faviconextractor.com/favicon/www.wjshub.cn"
         }
       ]
     },
