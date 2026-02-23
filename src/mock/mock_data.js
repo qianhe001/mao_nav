@@ -604,6 +604,13 @@ export const mockData = {
           "url": "https://www.wjshub.cn/",
           "description": "免费游戏分享",
           "icon": "https://www.faviconextractor.com/favicon/www.wjshub.cn"
+        },
+        {
+          "id": "site-1771859381488",
+          "name": "游戏大桶",
+          "url": "https://www.gkinto.com/",
+          "description": "游戏大桶（更新快，但收费）",
+          "icon": "https://www.faviconextractor.com/favicon/www.gkinto.com"
         }
       ]
     },
