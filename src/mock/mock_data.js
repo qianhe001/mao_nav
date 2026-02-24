@@ -717,6 +717,13 @@ export const mockData = {
           "url": "https://acg.rip/",
           "description": "acg搜索种子下载",
           "icon": "https://www.faviconextractor.com/favicon/acg.rip"
+        },
+        {
+          "id": "site-1771902360979",
+          "name": "欧美磁力搜索",
+          "url": "https://bitsearch.to/",
+          "description": "欧美磁力搜索",
+          "icon": "https://www.faviconextractor.com/favicon/bitsearch.to"
         }
       ]
     },
