@@ -71,20 +71,6 @@ export const mockData = {
           "icon": "/sitelogo/www.midjourney.com.ico"
         },
         {
-          "id": "copilot",
-          "name": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI代码助手",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
-        },
-        {
           "id": "site-1765876894747",
           "name": "deepseek",
           "url": "https://chat.deepseek.com/",
@@ -104,6 +90,20 @@ export const mockData = {
           "url": "https://stitch.withgoogle.com/?pli=1",
           "description": "免费google原型设计",
           "icon": "https://www.faviconextractor.com/favicon/stitch.withgoogle.com"
+        },
+        {
+          "id": "site-1771897592914",
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat/",
+          "description": "豆包",
+          "icon": "https://www.faviconextractor.com/favicon/www.doubao.com"
+        },
+        {
+          "id": "site-1771897645970",
+          "name": "千问aippt",
+          "url": "https://www.qianwen.com/aippt",
+          "description": "千问生成ppt",
+          "icon": "https://www.faviconextractor.com/favicon/www.qianwen.com"
         }
       ]
     },
