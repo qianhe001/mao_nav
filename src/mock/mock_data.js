@@ -104,6 +104,13 @@ export const mockData = {
           "url": "https://www.qianwen.com/aippt",
           "description": "千问生成ppt",
           "icon": "https://www.faviconextractor.com/favicon/www.qianwen.com"
+        },
+        {
+          "id": "site-1771897721011",
+          "name": "grok",
+          "url": "https://grok.com/",
+          "description": "18x解禁",
+          "icon": "https://www.faviconextractor.com/favicon/grok.com"
         }
       ]
     },
