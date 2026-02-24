@@ -385,13 +385,6 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
-          "id": "mdn",
-          "name": "MDN Web Docs",
-          "url": "https://developer.mozilla.org",
-          "description": "Web开发权威文档",
-          "icon": "/sitelogo/developer.mozilla.org.ico"
-        },
-        {
           "id": "w3school",
           "name": "W3Schools",
           "url": "https://www.w3schools.com",
@@ -418,6 +411,13 @@ export const mockData = {
           "url": "https://github.com/z-libraryopp/z-libraryopp.github.io?tab=readme-ov-file",
           "description": "zlibrary电子图书馆",
           "icon": ""
+        },
+        {
+          "id": "site-1771899088825",
+          "name": "安娜的档案",
+          "url": "https://annas-archive.li/",
+          "description": "安娜的档案",
+          "icon": "https://www.faviconextractor.com/favicon/annas-archive.li"
         }
       ]
     },
