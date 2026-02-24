@@ -826,6 +826,21 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1771946513641",
+      "icon": "📁",
+      "name": "vr资源",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1771946537273",
+          "name": "best-vr-porn-sites",
+          "url": "https://theporndude.com/best-vr-porn-sites",
+          "description": "vr欧美导航",
+          "icon": "https://www.faviconextractor.com/favicon/theporndude.com"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
