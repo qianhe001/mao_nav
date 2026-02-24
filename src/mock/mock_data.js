@@ -125,6 +125,13 @@ export const mockData = {
           "url": "https://notebooklm.google.com/",
           "description": "ai笔记本(从gmail进入)",
           "icon": "https://www.faviconextractor.com/favicon/notebooklm.google.com"
+        },
+        {
+          "id": "site-1771906578297",
+          "name": "nvidia免费apikey",
+          "url": "https://build.nvidia.com/settings/api-keys",
+          "description": "nvidia免费apikey",
+          "icon": ""
         }
       ]
     },
