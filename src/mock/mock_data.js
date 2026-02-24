@@ -710,6 +710,13 @@ export const mockData = {
           "url": "https://cili.st/",
           "description": "清新可搜索欧美",
           "icon": "https://www.faviconextractor.com/favicon/cili.st"
+        },
+        {
+          "id": "site-1771901824381",
+          "name": "acg磁力搜索",
+          "url": "https://acg.rip/",
+          "description": "acg搜索种子下载",
+          "icon": "https://www.faviconextractor.com/favicon/acg.rip"
         }
       ]
     },
