@@ -731,6 +731,13 @@ export const mockData = {
           "url": "https://bt4gprx.com/",
           "description": "欧美磁力搜索",
           "icon": ""
+        },
+        {
+          "id": "site-1771902685956",
+          "name": "种子搜索聚合",
+          "url": "https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins",
+          "description": "种子搜索聚合",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     },
