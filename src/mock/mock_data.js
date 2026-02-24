@@ -738,6 +738,13 @@ export const mockData = {
           "url": "https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins",
           "description": "种子搜索聚合(qBittorrent插件集成)",
           "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1771903049511",
+          "name": "欧美搜索引擎聚合",
+          "url": "https://jivaro.net/misc/apps/torrent-search-engine",
+          "description": "欧美搜索引擎聚合",
+          "icon": "https://www.faviconextractor.com/favicon/jivaro.net"
         }
       ]
     },
