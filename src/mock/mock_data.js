@@ -720,10 +720,17 @@ export const mockData = {
         },
         {
           "id": "site-1771902360979",
-          "name": "欧美磁力搜索",
+          "name": "欧美磁力-bitsearch",
           "url": "https://bitsearch.to/",
           "description": "欧美磁力搜索",
           "icon": "https://www.faviconextractor.com/favicon/bitsearch.to"
+        },
+        {
+          "id": "site-1771902457204",
+          "name": "欧美磁力-bt4gprx",
+          "url": "https://bt4gprx.com/",
+          "description": "欧美磁力搜索",
+          "icon": ""
         }
       ]
     },
