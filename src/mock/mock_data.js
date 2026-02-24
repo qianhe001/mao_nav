@@ -90,6 +90,20 @@ export const mockData = {
           "url": "https://chat.deepseek.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1771897405395",
+          "name": "aistudio",
+          "url": "https://aistudio.google.com/apps",
+          "description": "上传图片生成前端",
+          "icon": "https://www.faviconextractor.com/favicon/aistudio.google.com"
+        },
+        {
+          "id": "site-1771897495506",
+          "name": "stitch原型设计",
+          "url": "https://stitch.withgoogle.com/?pli=1",
+          "description": "免费google原型设计",
+          "icon": "https://www.faviconextractor.com/favicon/stitch.withgoogle.com"
         }
       ]
     },
