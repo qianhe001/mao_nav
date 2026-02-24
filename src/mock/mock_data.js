@@ -111,6 +111,20 @@ export const mockData = {
           "url": "https://grok.com/",
           "description": "18x解禁",
           "icon": "https://www.faviconextractor.com/favicon/grok.com"
+        },
+        {
+          "id": "site-1771897828891",
+          "name": "gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "gemini",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+        },
+        {
+          "id": "site-1771897883219",
+          "name": "notebooklm",
+          "url": "https://notebooklm.google.com/",
+          "description": "ai笔记本(从gmail进入)",
+          "icon": "https://www.faviconextractor.com/favicon/notebooklm.google.com"
         }
       ]
     },
