@@ -736,7 +736,7 @@ export const mockData = {
           "id": "site-1771902685956",
           "name": "种子搜索聚合",
           "url": "https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins",
-          "description": "种子搜索聚合",
+          "description": "种子搜索聚合(qBittorrent插件集成)",
           "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
