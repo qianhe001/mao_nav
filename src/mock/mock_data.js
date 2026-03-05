@@ -132,6 +132,13 @@ export const mockData = {
           "url": "https://build.nvidia.com/settings/api-keys",
           "description": "nvidia免费apikey",
           "icon": ""
+        },
+        {
+          "id": "site-1772672608132",
+          "name": "waytoagi",
+          "url": "https://waytoagi.feishu.cn/wiki/share-space-ask/7226178700923011075",
+          "description": "ai入门到精通",
+          "icon": "https://www.faviconextractor.com/favicon/waytoagi.feishu.cn"
         }
       ]
     },
