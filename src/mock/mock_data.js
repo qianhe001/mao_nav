@@ -667,6 +667,13 @@ export const mockData = {
           "url": "https://www.gkinto.com/",
           "description": "游戏大桶（更新快，但收费）",
           "icon": "https://www.faviconextractor.com/favicon/www.gkinto.com"
+        },
+        {
+          "id": "site-1774444939544",
+          "name": "方舟游戏",
+          "url": "https://www.fzgamer.com/",
+          "description": "百度盘下载",
+          "icon": "https://www.faviconextractor.com/favicon/www.fzgamer.com"
         }
       ]
     },
