@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1775394594439",
+          "name": "yandex搜索",
+          "url": "https://yandex.com/",
+          "description": "yandex搜索",
+          "icon": "https://www.faviconextractor.com/favicon/yandex.com"
         }
       ]
     },
