@@ -882,6 +882,13 @@ export const mockData = {
           "url": "https://www.loxin.top/",
           "description": "大母鹅修改器",
           "icon": "https://www.faviconextractor.com/favicon/www.loxin.top"
+        },
+        {
+          "id": "site-1775612711219",
+          "name": "Game-Cheats-Manager",
+          "url": "https://github.com/dyang886/Game-Cheats-Manager/blob/main/README_CN.md",
+          "description": "Game-Cheats-Manager",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     }
