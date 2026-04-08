@@ -869,6 +869,21 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/theporndude.com"
         }
       ]
+    },
+    {
+      "id": "category-1775612135604",
+      "icon": "📁",
+      "name": "游戏修改器",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1775612177595",
+          "name": "大母鹅修改器",
+          "url": "https://www.loxin.top/",
+          "description": "大母鹅修改器",
+          "icon": "https://www.faviconextractor.com/favicon/www.loxin.top"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
