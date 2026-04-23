@@ -681,6 +681,13 @@ export const mockData = {
           "url": "https://www.fzgamer.com/",
           "description": "百度盘下载",
           "icon": "https://www.faviconextractor.com/favicon/www.fzgamer.com"
+        },
+        {
+          "id": "site-1776948244956",
+          "name": "acg游戏",
+          "url": "https://acgyx.us/37177.html",
+          "description": "",
+          "icon": ""
         }
       ]
     },
