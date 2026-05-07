@@ -688,6 +688,13 @@ export const mockData = {
           "url": "https://acgyx.us/37177.html",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1778163156005",
+          "name": "acg嘤嘤怪",
+          "url": "https://acgyyg.ru/",
+          "description": "acg嘤嘤怪",
+          "icon": "https://www.faviconextractor.com/favicon/acgyyg.ru"
         }
       ]
     },
