@@ -709,6 +709,13 @@ export const mockData = {
           "url": "https://www.meimog.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782999228321",
+          "name": "空岛acg（看图）",
+          "url": "https://www.kdacg.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
