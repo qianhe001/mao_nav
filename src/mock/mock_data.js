@@ -695,6 +695,13 @@ export const mockData = {
           "url": "https://acgyyg.ru/",
           "description": "acg嘤嘤怪",
           "icon": "https://www.faviconextractor.com/favicon/acgyyg.ru"
+        },
+        {
+          "id": "site-1782999001485",
+          "name": "level-plus hgame",
+          "url": "https://level-plus.net/simple/index.php?f174.html",
+          "description": "账号:liaomin789/liaominxxx",
+          "icon": ""
         }
       ]
     },
