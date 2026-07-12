@@ -815,6 +815,13 @@ export const mockData = {
           "url": "https://jivaro.net/misc/apps/torrent-search-engine",
           "description": "欧美搜索引擎聚合",
           "icon": "https://www.faviconextractor.com/favicon/jivaro.net"
+        },
+        {
+          "id": "site-1783827391026",
+          "name": "欧美电影搜索uindex",
+          "url": "https://uindex.org",
+          "description": "匹配字幕网站：https://zimuku.org/",
+          "icon": ""
         }
       ]
     },
