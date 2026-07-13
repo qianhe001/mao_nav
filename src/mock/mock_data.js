@@ -723,6 +723,13 @@ export const mockData = {
           "url": "https://www.kdacg.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1783952385705",
+          "name": "芝士游戏",
+          "url": "https://www.cheesegame.org/",
+          "description": "芝士游戏",
+          "icon": "https://www.faviconextractor.com/favicon/www.cheesegame.org"
         }
       ]
     },
