@@ -836,6 +836,13 @@ export const mockData = {
           "url": "https://uindex.org",
           "description": "匹配字幕网站：https://zimuku.org/",
           "icon": ""
+        },
+        {
+          "id": "site-1785162641054",
+          "name": "vr番号（直接磁力）",
+          "url": "https://myjavbay.com/index.php/category/virtual-reality/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/myjavbay.com"
         }
       ]
     },
