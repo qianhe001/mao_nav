@@ -843,6 +843,13 @@ export const mockData = {
           "url": "https://myjavbay.com/index.php/category/virtual-reality/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/myjavbay.com"
+        },
+        {
+          "id": "site-1787044963230",
+          "name": "学霸盘",
+          "url": "https://www.xuebapan.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.xuebapan.com"
         }
       ]
     },
