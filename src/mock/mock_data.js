@@ -850,6 +850,13 @@ export const mockData = {
           "url": "https://www.xuebapan.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.xuebapan.com"
+        },
+        {
+          "id": "site-1787046250757",
+          "name": "人人bt搜索(百度网盘)",
+          "url": "https://www.rrbts.org/",
+          "description": "搜索百度网盘 准确率高",
+          "icon": ""
         }
       ]
     },
