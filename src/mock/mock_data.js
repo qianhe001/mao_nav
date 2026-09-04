@@ -857,6 +857,13 @@ export const mockData = {
           "url": "https://www.rrbts.org/",
           "description": "搜索百度网盘 准确率高",
           "icon": ""
+        },
+        {
+          "id": "site-1788497883079",
+          "name": "伏羲盘",
+          "url": "https://fuxipan.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
