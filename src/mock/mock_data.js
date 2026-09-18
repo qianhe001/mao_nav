@@ -153,6 +153,20 @@ export const mockData = {
           "url": "https://github.com/mengjian-github/openclaw101?tab=readme-ov-file",
           "description": "openclaw入门教程",
           "icon": ""
+        },
+        {
+          "id": "site-1789705720549",
+          "name": "freebuff免费客户端",
+          "url": "https://freebuff.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/freebuff.com"
+        },
+        {
+          "id": "site-1789705735764",
+          "name": "cline免费客户端",
+          "url": "https://cline.bot/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cline.bot"
         }
       ]
     },
