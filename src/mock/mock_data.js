@@ -181,6 +181,13 @@ export const mockData = {
           "url": "https://platform.agnes-ai.com",
           "description": "免费apikey",
           "icon": ""
+        },
+        {
+          "id": "site-1789974893575",
+          "name": "unorouter",
+          "url": "https://unorouter.com/",
+          "description": "免费aikey 不太稳定 有很多免费模型",
+          "icon": "https://www.faviconextractor.com/favicon/unorouter.com"
         }
       ]
     },
