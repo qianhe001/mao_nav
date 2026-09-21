@@ -167,6 +167,13 @@ export const mockData = {
           "url": "https://cline.bot/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/cline.bot"
+        },
+        {
+          "id": "site-1789972900670",
+          "name": "atria-asi",
+          "url": "https://api.atria-asi.ai/console",
+          "description": "一个账号免费1亿token",
+          "icon": ""
         }
       ]
     },
