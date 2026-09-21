@@ -174,6 +174,13 @@ export const mockData = {
           "url": "https://api.atria-asi.ai/console",
           "description": "一个账号免费1亿token",
           "icon": ""
+        },
+        {
+          "id": "site-1789973727798",
+          "name": "agnes-ai",
+          "url": "https://platform.agnes-ai.com",
+          "description": "免费apikey",
+          "icon": ""
         }
       ]
     },
