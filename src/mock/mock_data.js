@@ -1037,6 +1037,13 @@ export const mockData = {
           "url": "https://www.romspedia.com/",
           "description": "点击下载要等待几秒",
           "icon": ""
+        },
+        {
+          "id": "site-1791444624707",
+          "name": "planetemu",
+          "url": "https://www.planetemu.net/",
+          "description": "不限速 优选",
+          "icon": ""
         }
       ]
     }
