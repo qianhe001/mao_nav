@@ -1044,6 +1044,13 @@ export const mockData = {
           "url": "https://www.planetemu.net/",
           "description": "不限速 优选",
           "icon": ""
+        },
+        {
+          "id": "site-1791444928483",
+          "name": "retroroms",
+          "url": "https://www.retroroms.info/bda",
+          "description": "目录列表 输入账号密码即可下载 lixin1112003@gmail.com/Liaomin@9xx",
+          "icon": "https://www.faviconextractor.com/favicon/www.retroroms.info"
         }
       ]
     }
