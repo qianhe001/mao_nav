@@ -1023,6 +1023,13 @@ export const mockData = {
           "url": "https://romhustler.org/roms",
           "description": "rom直接http下载",
           "icon": ""
+        },
+        {
+          "id": "site-1791433222163",
+          "name": "coolrom",
+          "url": "https://coolrom.com/roms/cps1/527/Cadillacs_and_Dinosaurs.php",
+          "description": "注意一般下载都是广告，点击添加到队列 在队列页面上下载按钮下载",
+          "icon": ""
         }
       ]
     }
