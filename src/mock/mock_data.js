@@ -1048,7 +1048,7 @@ export const mockData = {
         {
           "id": "site-1791444928483",
           "name": "retroroms",
-          "url": "https://www.retroroms.info/bda",
+          "url": "https://bda.retroroms.net/downloads/FBneo/ROMs_Nightly/arcade/",
           "description": "目录列表https://bda.retroroms.net/downloads/FBneo/ROMs_Nightly/arcade/\n 输入账号密码即可下载 lixin1112003@gmail.com/Liaomin@9xx",
           "icon": "https://www.faviconextractor.com/favicon/www.retroroms.info"
         }
