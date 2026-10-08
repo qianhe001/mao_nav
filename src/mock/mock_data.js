@@ -1010,6 +1010,21 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
+    },
+    {
+      "id": "category-1791432730589",
+      "icon": "📁",
+      "name": "rom下载",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1791432763932",
+          "name": "romhustler",
+          "url": "https://romhustler.org/roms",
+          "description": "rom直接http下载",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
