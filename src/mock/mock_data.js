@@ -1030,6 +1030,13 @@ export const mockData = {
           "url": "https://coolrom.com/roms/cps1/527/Cadillacs_and_Dinosaurs.php",
           "description": "注意一般下载都是广告，点击添加到队列 在队列页面上下载按钮下载",
           "icon": ""
+        },
+        {
+          "id": "site-1791433422284",
+          "name": "romspedia",
+          "url": "https://www.romspedia.com/",
+          "description": "点击下载要等待几秒",
+          "icon": ""
         }
       ]
     }
