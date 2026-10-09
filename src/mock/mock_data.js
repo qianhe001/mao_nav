@@ -1065,6 +1065,13 @@ export const mockData = {
           "url": "https://repo.mariocube.com/DSiWare/NDS/P/",
           "description": "列表直接下载ndsrom 神站点",
           "icon": "https://www.faviconextractor.com/favicon/repo.mariocube.com"
+        },
+        {
+          "id": "site-1791540378695",
+          "name": "rom目录导航",
+          "url": "https://r-roms.github.io/Sony/sony-playstation",
+          "description": "rom目录导航 神站点左侧有不同模拟器",
+          "icon": ""
         }
       ]
     }
