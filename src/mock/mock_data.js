@@ -1049,7 +1049,7 @@ export const mockData = {
           "id": "site-1791444928483",
           "name": "retroroms",
           "url": "https://bda.retroroms.net/downloads/FBneo/ROMs_Nightly/arcade/",
-          "description": "目录列表https://bda.retroroms.net/downloads/FBneo/ROMs_Nightly/arcade/\n 输入账号密码即可下载 lixin1112003@gmail.com/Liaomin@9xx\ncheats目录：https://github.com/finalburnneo/FBNeo-cheats/tree/master/cheats",
+          "description": "目录列表https://bda.retroroms.net/downloads/FBneo/ROMs_Nightly/arcade/\n 输入账号密码即可下载 lixin1112003@gmail.com/Liaomin@9xx\ncheats目录：https://github.com/finalburnneo/FBNeo-cheats/tree/master/cheats\n游戏封面：https://adb.arcadeitalia.net/lista_mame.php?ricerca=test&arcade_only=0",
           "icon": "https://www.faviconextractor.com/favicon/www.retroroms.info"
         }
       ]
