@@ -1035,7 +1035,7 @@ export const mockData = {
           "id": "site-1791433422284",
           "name": "romspedia",
           "url": "https://www.romspedia.com/",
-          "description": "点击下载要等待几秒",
+          "description": "点击下载要等待几秒 有限速不推荐",
           "icon": ""
         },
         {
@@ -1051,6 +1051,13 @@ export const mockData = {
           "url": "https://bda.retroroms.net/downloads/FBneo/ROMs_Nightly/arcade/",
           "description": "目录列表https://bda.retroroms.net/downloads/FBneo/ROMs_Nightly/arcade/\n 输入账号密码即可下载 lixin1112003@gmail.com/Liaomin@9xx\ncheats目录：https://github.com/finalburnneo/FBNeo-cheats/tree/master/cheats\n游戏封面：https://adb.arcadeitalia.net/lista_mame.php?ricerca=test&arcade_only=0\nnes游戏：https://github.com/mengfei523060/nesrom/blob/master/FC%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%E6%B1%89%E5%8C%96%E7%89%88.nes",
           "icon": "https://www.faviconextractor.com/favicon/www.retroroms.info"
+        },
+        {
+          "id": "site-1791539742017",
+          "name": "wowroms",
+          "url": "https://wowroms.com/en/roms/nintendo-ds/",
+          "description": "可直接下载有个倒计时 速度很快",
+          "icon": ""
         }
       ]
     }
