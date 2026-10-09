@@ -1058,6 +1058,13 @@ export const mockData = {
           "url": "https://wowroms.com/en/roms/nintendo-ds/",
           "description": "可直接下载有个倒计时 速度很快",
           "icon": ""
+        },
+        {
+          "id": "site-1791540194439",
+          "name": "mariocube",
+          "url": "https://repo.mariocube.com/DSiWare/NDS/P/",
+          "description": "列表直接下载ndsrom 神站点",
+          "icon": "https://www.faviconextractor.com/favicon/repo.mariocube.com"
         }
       ]
     }
