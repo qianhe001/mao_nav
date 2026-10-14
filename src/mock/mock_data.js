@@ -188,6 +188,13 @@ export const mockData = {
           "url": "https://unorouter.com/",
           "description": "免费aikey 不太稳定 有很多免费模型",
           "icon": "https://www.faviconextractor.com/favicon/unorouter.com"
+        },
+        {
+          "id": "site-1791959177690",
+          "name": "perchance",
+          "url": "https://perchance.org/ai-character-generator",
+          "description": "无限制无审查图片生成",
+          "icon": ""
         }
       ]
     },
