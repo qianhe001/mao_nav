@@ -195,6 +195,13 @@ export const mockData = {
           "url": "https://perchance.org/ai-character-generator",
           "description": "无限制无审查图片生成",
           "icon": ""
+        },
+        {
+          "id": "site-1793158500549",
+          "name": "priceai",
+          "url": "https://priceai.cc/channels",
+          "description": "便宜ai进货渠道，ai黑市",
+          "icon": "https://www.faviconextractor.com/favicon/priceai.cc"
         }
       ]
     },
