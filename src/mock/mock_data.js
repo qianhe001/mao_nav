@@ -779,6 +779,13 @@ export const mockData = {
           "url": "https://www.cheesegame.org/",
           "description": "芝士游戏",
           "icon": "https://www.faviconextractor.com/favicon/www.cheesegame.org"
+        },
+        {
+          "id": "site-1793277147756",
+          "name": "igruha",
+          "url": "https://repack-igruha.net/",
+          "description": "igruha游戏更新超快",
+          "icon": ""
         }
       ]
     },
