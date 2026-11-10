@@ -1095,6 +1095,21 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1794292566554",
+      "icon": "💼",
+      "name": "vps",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1794292589833",
+          "name": "simular",
+          "url": "https://box.simular.ai/",
+          "description": "web远程服务器 root权限",
+          "icon": "https://www.faviconextractor.com/favicon/box.simular.ai"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
