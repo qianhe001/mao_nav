@@ -1099,7 +1099,7 @@ export const mockData = {
     {
       "id": "category-1794292566554",
       "icon": "💼",
-      "name": "vps",
+      "name": "vps服务器",
       "order": 0,
       "sites": [
         {
@@ -1114,7 +1114,7 @@ export const mockData = {
     {
       "id": "category-1794368270517",
       "icon": "📱",
-      "name": "代理",
+      "name": "免费代理",
       "order": 0,
       "sites": [
         {
