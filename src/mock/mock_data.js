@@ -202,6 +202,20 @@ export const mockData = {
           "url": "https://priceai.cc/channels",
           "description": "便宜ai进货渠道，ai黑市",
           "icon": "https://www.faviconextractor.com/favicon/priceai.cc"
+        },
+        {
+          "id": "site-1794369735900",
+          "name": "muse",
+          "url": "https://muse.ai/",
+          "description": "muse代理服务",
+          "icon": "https://www.faviconextractor.com/favicon/muse.ai"
+        },
+        {
+          "id": "site-1794369848172",
+          "name": "todayai",
+          "url": "https://todayai.cn/today",
+          "description": "国产服务器ai",
+          "icon": "https://www.faviconextractor.com/favicon/todayai.cn"
         }
       ]
     },
