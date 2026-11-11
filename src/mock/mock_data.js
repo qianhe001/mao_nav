@@ -1110,6 +1110,21 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/box.simular.ai"
         }
       ]
+    },
+    {
+      "id": "category-1794368270517",
+      "icon": "📱",
+      "name": "代理",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1794368322590",
+          "name": "freeproxy",
+          "url": "https://www.freeproxy.world/",
+          "description": "找到某个国家代理节点，使用switchomega代理即可 用于第三方网站注册需要其他国家很有用",
+          "icon": "https://www.faviconextractor.com/favicon/www.freeproxy.world"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
