@@ -216,6 +216,13 @@ export const mockData = {
           "url": "https://todayai.cn/today",
           "description": "国产服务器ai",
           "icon": "https://www.faviconextractor.com/favicon/todayai.cn"
+        },
+        {
+          "id": "site-1794452530731",
+          "name": "arena",
+          "url": "https://arena.ai/",
+          "description": "免费白嫖满血Claude！免绑卡免API，打开网页直接用",
+          "icon": "https://www.faviconextractor.com/favicon/arena.ai"
         }
       ]
     },
