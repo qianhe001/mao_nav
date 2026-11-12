@@ -221,7 +221,7 @@ export const mockData = {
           "id": "site-1794452530731",
           "name": "arena",
           "url": "https://arena.ai/",
-          "description": "免费白嫖满血Claude！免绑卡免API，打开网页直接用",
+          "description": "免费白嫖满血Claude！免绑卡免API，打开网页直接用\n注意chat，选择模型时选择code模式 默认是text模式",
           "icon": "https://www.faviconextractor.com/favicon/arena.ai"
         }
       ]
