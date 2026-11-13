@@ -1144,6 +1144,13 @@ export const mockData = {
           "url": "https://www.freeproxy.world/",
           "description": "找到某个国家代理节点，使用switchomega代理即可 用于第三方网站注册需要其他国家很有用",
           "icon": "https://www.faviconextractor.com/favicon/www.freeproxy.world"
+        },
+        {
+          "id": "site-1794532162271",
+          "name": "ur家装ip代理",
+          "url": "https://ur.io/zh/agents",
+          "description": "家装ip代理 ping0cc检测绿色",
+          "icon": ""
         }
       ]
     }
