@@ -1151,6 +1151,13 @@ export const mockData = {
           "url": "https://ur.io/zh/agents",
           "description": "家装ip代理 ping0cc检测绿色",
           "icon": ""
+        },
+        {
+          "id": "site-1794761045912",
+          "name": "shifter",
+          "url": "https://shifter.io/",
+          "description": "非常纯洁代理注册muse 一流",
+          "icon": ""
         }
       ]
     }
