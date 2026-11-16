@@ -1155,7 +1155,7 @@ export const mockData = {
         {
           "id": "site-1794761045912",
           "name": "shifter",
-          "url": "https://shifter.io/",
+          "url": "https://shifter.io/cn/web-proxy",
           "description": "非常纯洁代理注册muse 一流",
           "icon": ""
         }
