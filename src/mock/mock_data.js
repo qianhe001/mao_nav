@@ -230,6 +230,13 @@ export const mockData = {
           "url": "https://llmperks.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/llmperks.com"
+        },
+        {
+          "id": "site-1794910371131",
+          "name": "aihot",
+          "url": "https://aihot.news/free-tokens",
+          "description": "国内羊毛",
+          "icon": ""
         }
       ]
     },
