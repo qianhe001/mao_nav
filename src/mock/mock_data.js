@@ -223,6 +223,13 @@ export const mockData = {
           "url": "https://arena.ai/",
           "description": "免费白嫖满血Claude！免绑卡免API，打开网页直接用\n注意chat，选择模型时选择code模式 默认是text模式",
           "icon": "https://www.faviconextractor.com/favicon/arena.ai"
+        },
+        {
+          "id": "site-1794881199168",
+          "name": "llm优惠聚合",
+          "url": "https://llmperks.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/llmperks.com"
         }
       ]
     },
