@@ -1174,6 +1174,21 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1795009568411",
+      "icon": "📁",
+      "name": "虚拟信用卡",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1795009597627",
+          "name": "信用卡百科",
+          "url": "https://cardwiki.net/?view=guide",
+          "description": "所有大陆可申请信用卡还有usdt购买等",
+          "icon": "https://www.faviconextractor.com/favicon/cardwiki.net"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
