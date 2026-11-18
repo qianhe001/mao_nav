@@ -1032,7 +1032,7 @@ export const mockData = {
     },
     {
       "id": "category-1771946513641",
-      "icon": "📁",
+      "icon": "💻",
       "name": "vr资源",
       "order": 0,
       "sites": [
@@ -1047,7 +1047,7 @@ export const mockData = {
     },
     {
       "id": "category-1775612135604",
-      "icon": "📁",
+      "icon": "🌐",
       "name": "游戏修改器",
       "order": 0,
       "sites": [
@@ -1069,7 +1069,7 @@ export const mockData = {
     },
     {
       "id": "category-1791432730589",
-      "icon": "📁",
+      "icon": "☁️",
       "name": "rom下载",
       "order": 0,
       "sites": [
@@ -1177,7 +1177,7 @@ export const mockData = {
     },
     {
       "id": "category-1795009568411",
-      "icon": "📁",
+      "icon": "📊",
       "name": "虚拟信用卡",
       "order": 0,
       "sites": [
