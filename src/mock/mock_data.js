@@ -237,6 +237,20 @@ export const mockData = {
           "url": "https://aihot.news/free-tokens",
           "description": "国内羊毛",
           "icon": ""
+        },
+        {
+          "id": "site-1795266790919",
+          "name": "DeepAI客户端",
+          "url": "https://deepai.org/",
+          "description": "deepseek  chatglm免费用",
+          "icon": "https://www.faviconextractor.com/favicon/deepai.org"
+        },
+        {
+          "id": "site-1795266880461",
+          "name": "amazonquick客户端",
+          "url": "https://aws.amazon.com/quick/?trk=1c6758f2-b891-47fa-ac95-ee741e21e0c4&sc_channel=ps&ef_id=CjwKCAiAn4XYBhA-EiwA8176FVaSg-I-wv81QbdVn1grhoFqaHYewwK5LJEw6hwiEMAmfYAAJLSsBhoCQn8QAvD_BwE:G:s&gads_camp=23846236730&gads_ag=198027731722&gads_ad=808746982768&gads_kw=amazon%20quick&gads_matchtype=e&gads_network=g&gads_device=c&gads_geo=2702&gad_campaignid=23846236730&gbraid=0AAAAADjHtp9HHw8ivNipCcV_3k1o-0C0n&gclid=CjwKCAiAn4XYBhA-EiwA8176FVaSg-I-wv81QbdVn1grhoFqaHYewwK5LJEw6hwiEMAmfYAAJLSsBhoCQn8QAvD_BwE",
+          "description": "fable5 8小时免费，可注册无限个账号",
+          "icon": "https://www.faviconextractor.com/favicon/aws.amazon.com"
         }
       ]
     },
